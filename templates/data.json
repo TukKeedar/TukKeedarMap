@@ -5,5 +5,54 @@
     "y": -12667,
     "width": 814,
     "height": 588
+  },
+  "logo": {
+    "name": "logo.png",
+    "x": 2942,
+    "y": -2,
+    "width": 146,
+    "height": 96
+  },
+  "bort": {
+    "name": "bort.png",
+    "x": 2908,
+    "y": 262,
+    "width": 42,
+    "height": 36
+  },
+  "mask": {
+    "name": "mask.png",
+    "x": 2727,
+    "y": -13,
+    "width": 35,
+    "height": 32
+  },
+  "gloves": {
+    "name": "gloves.png",
+    "x": 2890,
+    "y": 220,
+    "width": 45,
+    "height": 26
+  },
+  "Shenron": {
+    "name": "shenron.png",
+    "x": 2619,
+    "y": 312,
+    "width": 135,
+    "height": 90
+  },
+  "assist": {
+    "name": "assist.png",
+    "x": -1546,
+    "y": -11796,
+    "width": 286,
+    "height": 273
+  },
+  "Weebgirl": {
+    "name": "weebgirl_template.png",
+    "x": -1192,
+    "y": -11254,
+    "width": 80,
+    "height": 145
   }
 }
