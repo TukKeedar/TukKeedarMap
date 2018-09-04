@@ -54,5 +54,26 @@
     "y": -11254,
     "width": 80,
     "height": 145
+  },
+  "Dedede": {
+    "name": "dedede.png",
+    "x": 2552,
+    "y": 513,
+    "width": 32,
+    "height": 29
+  },
+  "Arstotzka": {
+    "name": "arstotzka.png",
+    "x": 3093,
+    "y": 382,
+    "width": 117,
+    "height": 43
+  },
+  "Weebs": {
+    "name": "weebs_v2.png",
+    "x": 2306,
+    "y": 374,
+    "width": 42,
+    "height": 22
   }
 }
