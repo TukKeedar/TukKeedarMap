@@ -10,7 +10,6 @@
 // @downloadURL  https://raw.githubusercontent.com/TukKeedar/TukKeedarMap/master/maindeal.js
 // ==/UserScript==
 
-
 window.baseTepmlateUrl = 'https://raw.githubusercontent.com/TukKeedar/TukKeedarMap/master';
 
 window.addEventListener('load', function () {
