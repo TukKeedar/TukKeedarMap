@@ -75,5 +75,12 @@
     "y": 374,
     "width": 42,
     "height": 22
+  },
+  "BackGround": {
+    "name": "bkrnd.png",
+    "x": 2213,
+    "y": -526,
+    "width": 1330,
+    "height": 1164
   }
 }

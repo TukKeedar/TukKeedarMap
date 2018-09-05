@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         BotBrudda MiniMap
-// @version      1
+// @name         Mah Darn MiniMap
+// @version      1.69.420
 // @description  Pixelcanvas Minimap for the Bot Bruddas
 // @author       Crunchy Potato
 // @match        https://pixelcanvas.io/*
