@@ -6,41 +6,6 @@
     "width": 814,
     "height": 588
   },
-  "logo": {
-    "name": "logo.png",
-    "x": 2942,
-    "y": -2,
-    "width": 146,
-    "height": 96
-  },
-  "bort": {
-    "name": "bort.png",
-    "x": 2908,
-    "y": 262,
-    "width": 42,
-    "height": 36
-  },
-  "mask": {
-    "name": "mask.png",
-    "x": 2727,
-    "y": -13,
-    "width": 35,
-    "height": 32
-  },
-  "gloves": {
-    "name": "gloves.png",
-    "x": 2890,
-    "y": 220,
-    "width": 45,
-    "height": 26
-  },
-  "Shenron": {
-    "name": "shenron.png",
-    "x": 2619,
-    "y": 312,
-    "width": 135,
-    "height": 90
-  },
   "assist": {
     "name": "assist.png",
     "x": -1546,
@@ -55,30 +20,9 @@
     "width": 80,
     "height": 145
   },
-  "Dedede": {
-    "name": "dedede.png",
-    "x": 2552,
-    "y": 513,
-    "width": 32,
-    "height": 29
-  },
-  "Arstotzka": {
-    "name": "arstotzka.png",
-    "x": 3093,
-    "y": 382,
-    "width": 117,
-    "height": 43
-  },
-  "Weebs": {
-    "name": "weebs_v2.png",
-    "x": 2306,
-    "y": 374,
-    "width": 42,
-    "height": 22
-  },
-  "BackGround": {
-    "name": "bkrnd.png",
-    "x": 2213,
+  "BLOB": {
+    "name": "blob.png",
+    "x": 2215,
     "y": -526,
     "width": 1330,
     "height": 1164
