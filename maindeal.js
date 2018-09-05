@@ -6,6 +6,8 @@
 // @match        https://pixelcanvas.io/*
 // @match        http://pixelcanvas.io/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/TukKeedar/TukKeedarMap/master/maindeal.js
+// @downloadURL  https://raw.githubusercontent.com/TukKeedar/TukKeedarMap/master/maindeal.js
 // ==/UserScript==
 
 
