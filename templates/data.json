@@ -20,6 +20,14 @@
     "width": 80,
     "height": 145
   },
+    },
+  "Art Colony": {
+    "name": "artcolony.png",
+    "x": -2090,
+    "y": -12004,
+    "width": 80,
+    "height": 145
+  },
   "BLOB": {
     "name": "blob.png",
     "x": 2215,
