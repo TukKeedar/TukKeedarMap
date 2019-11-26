@@ -1,4 +1,4 @@
-# TukKeedarMap
+# TukKeedarMap (Red Blob)
 
 Will need a "tampermonkey". I have tested in Firefox and Opera, and have no reason to think it doesnt work in Chrome.
 
